@@ -30,7 +30,7 @@ You **do not** need to use Jeno to benefit from these workflows.
 
 ---
 
-##What You’ll Find Here
+## What You’ll Find Here
 
 This repo contains **open, composable workflows** that can be adapted to different stacks and tools.
 
@@ -61,7 +61,7 @@ This repo contains **open, composable workflows** that can be adapted to differe
 
 ## 🧠Key Principle -
 
-- **AI + Human Harmony Model by Agentive Labs**
+Our Core Principles are inspired by **AI + Human Harmony Model by Agentive Labs** 
 
   - AI -in-the-loop workflows
   - Guardrails for AI-assisted marketing
