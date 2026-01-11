@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to Jeno's Open Source Space.
+## Hi there 👋 Welcome to Jeno Open Source.
 
 **Jeno Open Source Workflows** is a public collection of practical, production-ready workflows that help **e-commerce brands improve product discovery and drive more sales** using **generative marketing and AI-assisted systems**.
 
@@ -18,40 +18,6 @@ Instead of optimizing only for traffic, Jeno focuses on:
 This repository documents the **workflows behind that philosophy**.
 
 ---
-
-## 🧠 What You’ll Find Here
-
-This repo contains **open, composable workflows** that can be adapted to different stacks and tools.
-
-### Workflow Categories
-
-- **Product Discovery Workflows**
-
-  - AI-assisted campaign planning
-  - Creative generation pipelines (images, copy, variations)
-  - Social Launch and Optimisations
-
-- **Sales Workflows **
- 
-  - Comment -> DM Workflows
-
-- **Brand Audit Workflows **
-
-- **Other**
-
-  - Lightweight automation patterns for small teams (e.g product description enhancer for GEO/AEO)
-
----
-
-Key Principle -
-
-- **AI + Human Harmony Model by Agentive Labs**
-
-  - AI -in-the-loop workflows
-  - Guardrails for AI-assisted marketing
-  - Clarity on when to automate vs when to use Human Expertise
-
-
 ## 🚀 Who This Is For
 
 - E-commerce founders & operators  
@@ -61,6 +27,45 @@ Key Principle -
 - Anyone curious about **discovery-led commerce**
 
 You **do not** need to use Jeno to benefit from these workflows.
+
+---
+
+##What You’ll Find Here
+
+This repo contains **open, composable workflows** that can be adapted to different stacks and tools.
+
+### 🧩 Workflow Categories
+
+- **Product Discovery Workflows**  
+  Workflows designed to help products get discovered naturally across modern shopping surfaces.
+  - AI-assisted campaign planning and ideation  
+  - Creative generation pipelines (images, copy, variations)  
+  - Social-first launches and ongoing optimization  
+
+- **Sales Workflows**  
+  Automations focused on converting attention into conversations and purchases.
+  - Comment → DM conversion workflows  
+  - Lead capture and follow-up flows (where applicable)
+
+- **Brand Audit Workflows**  
+  Structured workflows to analyze and improve how a brand shows up across discovery channels.
+  - Product positioning and messaging audits  
+  - Content and storefront consistency checks  
+
+- **Utility & Experimental Workflows**  
+  Lightweight tools and experiments designed for small teams and fast iteration.
+  - Product description enhancers for **GEO / AEO**  
+  - Micro-automations that remove manual marketing work  
+
+---
+
+## 🧠Key Principle -
+
+- **AI + Human Harmony Model by Agentive Labs**
+
+  - AI -in-the-loop workflows
+  - Guardrails for AI-assisted marketing
+  - Clarity on when to automate vs when to use Human Expertise
 
 ---
 ## 🛠️ How to Use These Workflows
